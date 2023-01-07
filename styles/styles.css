@@ -39,7 +39,7 @@ nav {
     border: 0;
     height: 40px;
     width: 130px;
-    border-radius: 5%;
+    border-radius: 2%;
 
 }
 
@@ -109,4 +109,88 @@ li {
     font-weight: 500;
     font-size: 25px;
     color: #737272;
+}
+
+/* section three style */
+.section-three {
+    margin: 130px 230px;
+    background-image: url(../images/editwatch.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.watch {
+    padding: 60px 617px 60px 65px;
+
+
+
+}
+
+.watch-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+
+}
+
+/* section four */
+.section-four {
+    background-color: #151414;
+}
+
+.section-four-container {
+    display: flex;
+    gap: 500px;
+    padding: 130px 230px;
+}
+
+.future {}
+
+.futute-title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 20px;
+}
+
+.one {
+    font-weight: 400;
+    font-size: 16px;
+    color: #F8F8F8;
+    margin-bottom: 20px;
+}
+
+.two {
+    font-weight: 400;
+    font-size: 16px;
+    color: #F8F8F8;
+    margin-bottom: 20px;
+}
+
+.three {
+    font-weight: 400;
+    font-size: 16px;
+    color: #F8F8F8;
+    margin-bottom: 20px;
+}
+
+.subscribe {}
+
+.subscribe-title {
+    font-weight: 600;
+    font-size: 25px;
+    color: #F8F8F8;
+    margin-bottom: 30px;
+
+}
+
+.subscribe input {
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 18px 100px 18px 30px;
+    border: 2px solid orange;
+    border-radius: 5%;
+    background-color: #151414;
 }
